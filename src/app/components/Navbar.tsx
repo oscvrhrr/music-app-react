@@ -1,6 +1,6 @@
 import Image from "next/image"
-import Home from '../../../clone-assets/home-icon.png'
-import Search from '../../../clone-assets/search-icon.png'
+import Home from '../../../assets/home-icon.png'
+import Search from '../../../assets/search-icon.png'
 
 export default function Navbar () {
     return (
