@@ -16,7 +16,7 @@ export default function Library () {
     
     return (
         
-        <aside className="w-80 h-screen bg-zinc-900 rounded-md ml-2 ">
+        <aside className="w-80 h-screen bg-zinc-900 rounded-md ml-2 inline-block">
             <li className="flex items-center mx-6 py-3">
                 <Image
                     src={Shelf}
@@ -27,9 +27,7 @@ export default function Library () {
                 <p>Your Library</p>
             </li>
             <ul>
-                {/* { listOfPlayList.forEach((item) => (
-                    <PlaylistItem product={item}/>
-                )) } */}
+               
             </ul>
 
 
