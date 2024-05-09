@@ -4,7 +4,7 @@ import Search from '../../../assets/search-icon.png'
 
 export default function Navbar () {
     return (
-        <nav className="w-80 h-28 bg-zinc-900 rounded-md m-2 flex flex-col justify-evenly">
+        <nav className="w-80 h-28 bg-zinc-900 rounded-md flex  flex-col col-start-1 justify-evenly">
             <ul>
                 <li className="flex items-center mx-6 mb-5 ">
                     <Image

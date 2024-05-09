@@ -16,7 +16,7 @@ export default function Library () {
     
     return (
         
-        <aside className="w-80 h-screen bg-zinc-900 rounded-md ml-2 inline-block">
+        <aside className="w-80 h-[40rem] bg-zinc-900 rounded-md col-start-1">
             <li className="flex items-center mx-6 py-3">
                 <Image
                     src={Shelf}
