@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar"
 import Library from "./components/Library"
 import AlbumShowcase from "./components/AlbumShowcase"
 import CoverDisplay from "./components/CoverDisplay"
+import MusicPlayer from "./components/MusicPlayer"
 
 export default function Home() {
   return (
@@ -13,8 +14,8 @@ export default function Home() {
         </div>
         <AlbumShowcase/>
         <CoverDisplay/>
+        <MusicPlayer/>
       </div>
-
     </>
   )
 }
