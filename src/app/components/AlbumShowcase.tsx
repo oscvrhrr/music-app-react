@@ -1,5 +1,5 @@
 import Button from "./Button"
-
+import LastPlay from "./LastPlay"
 
 
 export default function AlbumShowcase () {
@@ -14,7 +14,20 @@ export default function AlbumShowcase () {
                     <Button text="Audiobooks"/>
                 </div>
             </header>
-
+            <div className="flex px-2">
+                <div>
+                    <LastPlay/>
+                    <LastPlay/>
+                    <LastPlay/>
+                    <LastPlay/>
+                </div>
+                <div>
+                    <LastPlay/>
+                    <LastPlay/>
+                    <LastPlay/>
+                    <LastPlay/>
+                </div>
+            </div>
 
 
         </main>

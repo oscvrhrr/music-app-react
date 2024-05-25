@@ -6,7 +6,7 @@ import CoverDisplay from "./components/CoverDisplay"
 export default function Home() {
   return (
     <>
-      <div className="grid grid-cols-[20.55rem_48.75rem_17.5rem] grid-rows-none p-2 h-[48.5rem]">
+      <div className="grid grid-cols-[20.55rem_48.75rem_19.5rem] grid-rows-none p-2 h-[48.5rem]">
         <div className="grid grid-rows-[7.5rem_46.5rem] h-[40rem]">
         <Navbar/>
         <Library/>
