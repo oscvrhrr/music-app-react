@@ -1,7 +1,6 @@
 import Image from "next/image"
 import Shelf from '/public/assets/library-icon.png'
 import { PlaylistItem } from "./PlaylistItem"
-import Data from '../data/playlists.json'
 import { Playpen_Sans } from "next/font/google";
 
 
@@ -11,7 +10,7 @@ export default function Library () {
 
 
 
-    const listOfPlayList = Data.playlists.items;
+
 
     
     return (

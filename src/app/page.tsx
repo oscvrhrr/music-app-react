@@ -4,6 +4,7 @@ import AlbumShowcase from "./components/AlbumShowcase"
 import CoverDisplay from "./components/CoverDisplay"
 import MusicPlayer from "./components/MusicPlayer"
 
+
 export default function Home() {
   return (
     <>
