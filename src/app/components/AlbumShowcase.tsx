@@ -1,5 +1,8 @@
+"use client"
 import Button from "./Button"
 import LastPlay from "./LastPlay"
+import signOut from "../lib/signout"
+
 
 
 export default function AlbumShowcase () {
@@ -13,6 +16,7 @@ export default function AlbumShowcase () {
                     <Button text="Podcast"/>
                     <Button text="Audiobooks"/>
                 </div>
+                    <button onClick={signOut}>Sign Out</button>
             </header>
             <div className="flex px-2">
                 <div>
