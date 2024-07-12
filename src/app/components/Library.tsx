@@ -14,9 +14,7 @@ export default function Library() {
         <p>Your Library</p>
       </li>
       <ul>
-        {/* {playlists.map((item, index) => (
-                    <h1 key={index}>{item}</h1>
-                ))} */}
+        <PlaylistItem/>
       </ul>
     </aside>
   );
