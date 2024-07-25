@@ -6,7 +6,7 @@ export async function signInWithSpotify() {
     const { data, error } = await supabase.auth.signInWithOAuth({
       provider: 'spotify',
       options: {
-        redirectTo: 'http://music-app-react-five.vercel.app/dashboard',
+        redirectTo: 'https://music-app-react-five.vercel.app/dashboard',
       }
     });
 
