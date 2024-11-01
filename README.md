@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Alt Text](https://fzyxhpuljtyplklakuoy.supabase.co/storage/v1/object/sign/misc/react-music-app.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtaXNjL3JlYWN0LW11c2ljLWFwcC5naWYiLCJpYXQiOjE3MzA0MjAxOTcsImV4cCI6MTc2MTk1NjE5N30.TdbQRdwiMFwVzGpPfumcOFIt4BfYfvO5DDs42TOnOoo&t=2024-11-01T00%3A16%3A36.020Z)
 
-## Getting Started
+<h3 align="center"></h3>
+<p align="center">
+   A music app that integrates with Spotify's REST api & SDK
+  <br />
+  <br />
+</p>
 
-First, run the development server:
+# Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Auth
+- [x] Log In
+- [x] Log out
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Todo
+- [ ] 
+- [ ] 
+ 
