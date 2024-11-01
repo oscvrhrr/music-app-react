@@ -1,4 +1,4 @@
-![Alt Text](https://fzyxhpuljtyplklakuoy.supabase.co/storage/v1/object/sign/misc/react-music-app.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtaXNjL3JlYWN0LW11c2ljLWFwcC5naWYiLCJpYXQiOjE3MzA0MjAxOTcsImV4cCI6MTc2MTk1NjE5N30.TdbQRdwiMFwVzGpPfumcOFIt4BfYfvO5DDs42TOnOoo&t=2024-11-01T00%3A16%3A36.020Z)
+![Alt Text](https://fzyxhpuljtyplklakuoy.supabase.co/storage/v1/object/sign/misc/react.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtaXNjL3JlYWN0LmdpZiIsImlhdCI6MTczMDQyNDcyMiwiZXhwIjoxNzYxOTYwNzIyfQ.sMmNn5p51JlfR8mhm1cp1OH_HYa876TG4DpjtVuo0FE&t=2024-11-01T01%3A32%3A00.652Z)
 
 <h3 align="center"></h3>
 <p align="center">
