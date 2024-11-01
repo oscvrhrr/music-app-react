@@ -2,20 +2,32 @@
 
 <h3 align="center"></h3>
 <p align="center">
-   A music app that integrates with Spotify's REST api & SDK
+   A Music App that integrates with Spotify's REST api & SDK
   <br />
   <br />
 </p>
 
 # Features
+- [x] Play track
+- [x] Pause track
+- [x] Previous track
+- [x] Next track
+- [x] Hot Playlists
+- [x] Artists
 
 ## Auth
 - [x] Log In
 - [x] Log out
 
 
-
 ## Todo
-- [ ] 
-- [ ] 
+- [ ] track progress bar
+- [ ] search funcionality
+
+## Technology Used
+* Auth: OAuth Spotify provider (jwt)
+* Frontend: Next.js, React & TailwindCSS
+* Backend: Supabase
+
+
  
